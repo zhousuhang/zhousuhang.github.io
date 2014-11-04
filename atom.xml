@@ -4,7 +4,7 @@
   <title><![CDATA[Suhang's Blog]]></title>
   <link href="http://zhousuhang.github.io/atom.xml" rel="self"/>
   <link href="http://zhousuhang.github.io/"/>
-  <updated>2014-11-05T02:20:06+08:00</updated>
+  <updated>2014-11-05T02:25:49+08:00</updated>
   <id>http://zhousuhang.github.io/</id>
   <author>
     <name><![CDATA[Suhang]]></name>
@@ -18,7 +18,11 @@
     <link href="http://zhousuhang.github.io/blog/2014/11/04/my-first-blog/"/>
     <updated>2014-11-04T23:15:24+08:00</updated>
     <id>http://zhousuhang.github.io/blog/2014/11/04/my-first-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>first</h1>
+
+<h1>second</h1>
+
+<h1>third</h1>
 ]]></content>
   </entry>
   
