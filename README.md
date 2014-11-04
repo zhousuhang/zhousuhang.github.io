@@ -1,4 +1,4 @@
-zhousuhang.github.com
+zhousuhang.github.io
 ====================
 
 Blog
