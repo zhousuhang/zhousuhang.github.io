@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Suhang's Blog]]></title>
-  <link href="http://zhousuhang.github.io/atom.xml" rel="self"/>
+  <link href="http://zhousuhang.github.io/feed" rel="self"/>
   <link href="http://zhousuhang.github.io/"/>
   <updated>2014-11-05T15:20:32+08:00</updated>
   <id>http://zhousuhang.github.io/</id>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My First Blog]]></title>
+    <title type="html"><![CDATA[my first blog]]></title>
     <link href="http://zhousuhang.github.io/blog/2014/11/04/my-first-blog/"/>
     <updated>2014-11-04T23:15:24+08:00</updated>
     <id>http://zhousuhang.github.io/blog/2014/11/04/my-first-blog</id>
