@@ -6,5 +6,11 @@ comments: false
 categories: test
 ---
 #first
+	class Test {
+		//test
+	}
 #second
+	class Test {
+		//test
+	}
 #third
