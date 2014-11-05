@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: test | Suhang's Blog]]></title>
-  <link href="http://zhousuhang.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <title><![CDATA[Suhang's Blog]]></title>
+  <link href="http://zhousuhang.github.io/feed" rel="self"/>
   <link href="http://zhousuhang.github.io/"/>
   <updated>2014-11-05T13:37:23+08:00</updated>
   <id>http://zhousuhang.github.io/</id>
