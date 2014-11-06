@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://zhousuhang.github.io
-title: Suhang's Blog
+title: 一个好长好长的梦
 subtitle: 阳光照在我的脸上，眼睛眯成一团。我告诉同桌，我做了一个好长好长的梦，同桌骂我白痴，让我好好听课……
 author: Suhang
 simple_search: https://www.google.com/search
-description:
+description: 阳光照在我的脸上，眼睛眯成一团。我告诉同桌，我做了一个好长好长的梦，同桌骂我白痴，让我好好听课……
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, custom/asides/weibo.html, asides/gith
 # ----------------------- #
 
 # Github repositories
-github_user: zhousuhang
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
