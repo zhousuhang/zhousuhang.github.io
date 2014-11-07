@@ -1,16 +1,10 @@
 ---
 layout: post
-title: my first blog
+title: Why octopress on github pages
 date: 2014-11-04 23:15:24 +0800
 comments: false
-categories: test
+categories: 
 ---
-#first
-	class Test {
-		//test
-	}
-#second
-	class Test {
-		//test
-	}
-#third
+##github
+
+##octopress
