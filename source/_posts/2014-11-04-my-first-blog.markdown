@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 4个动作，让你的驼背直起来
+title: 四个动作，让你的驼背直起来
 date: 2014-11-04 23:15:24 +0800
-comments: false
-categories: 
+comments: true
+categories: 生活
 ---
 ##撑墙挺腰
 
