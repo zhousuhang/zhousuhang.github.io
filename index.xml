@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TANKSUZUKI.COM</title>
-    <link>http://ttshare.net/</link>
+    <link>/</link>
     <description>Recent content on TANKSUZUKI.COM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <atom:link href="http://ttshare.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
