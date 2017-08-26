@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: ZhouSuhang Blog
+SEOTitle: 周苏杭的博客 | ZhouSuhang Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zhousuhang@gmail.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://ttshare.net"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     zhousuhang
+zhihu_username:     zhousuhang
+github_username:    zhousuhang
+twitter_username:  zhousuhang
+facebook_username:  zhousuhang
 
 
 
