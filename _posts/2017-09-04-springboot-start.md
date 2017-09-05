@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Spring Boot入门篇
+title: SpringBoot入门篇
 categories: SpringBoot
-description: 快速入门Spring Boot，创建一个简单的Http请求处理。
+description: 快速入门SpringBoot，创建一个简单的Http请求处理。
 keywords: SpringBoot
 ---
 
@@ -76,5 +76,5 @@ public class HelloController {
 
 ## 参考
 
-* [Spring Boot](http://projects.spring.io/spring-boot/)
+* [SpringBoot](http://projects.spring.io/spring-boot/)
 * [示例代码](https://github.com/zhousuhang/springboot/tree/master/springboot-start)
