@@ -16,13 +16,13 @@ keywords: SpringBoot
 ![spring_start.png](/images/blog/spring_start.png)
 3. 点击Generate Project会下载一个zip文件到你的电脑中。
 4. 解压zip文件，你可以使用eclipse导入Meven项目的方式打开工程
-## 项目结构
+### 项目结构
 
 * src/main/java Java文件，程序入口DemoApplication.java
 * src/man/resources 配置文件目录 application.properties
 * src/test 单元测试目录
 
-## 引入web模块
+### 引入web模块
 pom.xml文件里已经引入了两个模块
 ```xml
 <dependencies>
@@ -48,7 +48,7 @@ pom.xml文件里已经引入了两个模块
 	<artifactId>spring-boot-starter-web</artifactId>
 </dependency>
 ```
-## 编写HelloWorld服务
+### 编写HelloWorld服务
 
 * 创建package com.example.demo.controler
 * 创建HelloController类
