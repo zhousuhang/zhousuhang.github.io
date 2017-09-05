@@ -18,7 +18,7 @@ keywords: SpringBoot
 ![spring_start.png](/images/blog/spring_start.png)
 
 3. 点击Generate Project会下载一个zip文件到你的电脑中。
-4. 解压zip文件，你可以使用eclipse导入Meven项目的方式打开工程
+4. 解压zip文件，你可以使用eclipse导入Maven项目的方式打开工程
 
 ### 项目结构
 
