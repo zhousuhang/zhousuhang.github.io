@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spring Boot入门篇
-categories: Spring Boot
+categories: SpringBoot
 description: 快速入门Spring Boot，创建一个简单的Http请求处理。
-keywords: Spring Boot
+keywords: SpringBoot
 ---
 
 ## 快速入门
@@ -13,7 +13,7 @@ keywords: Spring Boot
 ### 构建项目
 1. 打开http://start.spring.io
 2. 选择Maven作为构建方式，Java语言开发，版本号1.5.6
-![spring_start.png](images/blog/spring_start.png "Spring Initialize")
+![spring_start.png](images/blog/spring_start.png)
 3. 点击Generate Project会下载一个zip文件到你的电脑中。
 4. 解压zip文件，你可以使用eclipse导入Meven项目的方式打开工程
 ## 项目结构
@@ -66,4 +66,4 @@ public class HelloController {
 ## 参考
 
 * [Spring Boot](http://projects.spring.io/spring-boot/)
-* [示例代码](https://github.com/zhousuhang/springboot/tree/master/springboot-start "")
+* [示例代码](https://github.com/zhousuhang/springboot/tree/master/springboot-start)
