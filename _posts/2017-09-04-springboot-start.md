@@ -11,9 +11,9 @@ keywords: SpringBoot
 废话少说
 
 ### 构建项目
-1. 打开http://start.spring.io
+1. 打开[http://start.spring.io](http://start.spring.io)
 2. 选择Maven作为构建方式，Java语言开发，版本号1.5.6
-![spring_start.png](images/blog/spring_start.png)
+![spring_start.png](/images/blog/spring_start.png)
 3. 点击Generate Project会下载一个zip文件到你的电脑中。
 4. 解压zip文件，你可以使用eclipse导入Meven项目的方式打开工程
 ## 项目结构
@@ -26,17 +26,17 @@ keywords: SpringBoot
 pom.xml文件里已经引入了两个模块
 ```xml
 <dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
-		</dependency>
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter</artifactId>
+	</dependency>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-test</artifactId>
+		<scope>test</scope>
+	</dependency>
+</dependencies>
 ```
 * spring-boot-starter ：核心模块
 * spring-boot-starter-test ：测试模块
