@@ -72,7 +72,7 @@ public class HelloController {
 }
 ```
 
-* 启动主程序DemoApplication.java 打开浏览器访问http://localhost:8080/hello，可以看到页面输出Hello Spring Boot.
+* 启动主程序DemoApplication.java 打开浏览器访问http://localhost:8080/hello 可以看到页面输出Hello Spring Boot.
 
 ## 参考
 
