@@ -157,9 +157,9 @@ Druid官方已经提供了Spring Boot的起步依赖druid-spring-boot-starter，
 
 ```
 #JDBC
-spring.datasource.url=jdbc:mysql://i9.mangolee.com/springboot?requireSSL=false&useUnicode=true&characterEncoding=UTF-8
-spring.datasource.username=root
-spring.datasource.password=mglisecszjyoltl130409
+spring.datasource.url=jdbc:mysql://localhost:3306/test
+spring.datasource.username=dbuser
+spring.datasource.password=dbpass
 #可以省略
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 #可以省略
