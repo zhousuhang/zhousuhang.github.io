@@ -1,8 +1,7 @@
 ---
 layout: post
-title: template page
-categories: Android
-description: 深入理解 Android 的进程、Task、Activity 等之间的关系。
-keywords: Android, Task, Activity, 进程
+title: SpringBoot之Mybatis
+categories: SpringBoot
+description: SpringBoot集成Mybatis的两种方式，注解版和xml配置文件版
+keywords: SpringBoot
 ---
-
