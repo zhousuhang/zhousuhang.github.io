@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://ttshare.net
+url: http://zhousuhang.com
 date_format: "ordinal"
 title: 周苏杭
 subtitle: ""
@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: zhousuhang
-organization: ttshare.net
-organization_url: http://ttshare.net
+organization: zhousuhang.com
+organization_url: http://zhousuhang.com
 github_username: zhousuhang
 location: Shenzhen, China
 email: zhousuhang@gmail.com
